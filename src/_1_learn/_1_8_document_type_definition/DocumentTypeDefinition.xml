@@ -1,0 +1,6 @@
+<!DOCTYPE employee [<!ELEMENT employee (name, age, job)><!ELEMENT name (#PCDATA)><!ELEMENT age (#PCDATA)><!ELEMENT job (#PCDATA)>]>
+<employee>
+    <name>Mohamed Sadawy</name>
+    <age>22</age>
+    <job>Native Android Developer</job>
+</employee>
